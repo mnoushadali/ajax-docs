@@ -31,9 +31,9 @@ You can create **Figure 1** using the markup in **Example 1**.
 					<FillStyle BackgroundColor="#DDD9C3" />
 				</Appearance>
 				<SeriesItems>
-					<telerik:CategorySeriesItem Y="13" />
-					<telerik:CategorySeriesItem Y="12" />
-					<telerik:CategorySeriesItem Y="16" />
+					<telerik:CategorySeriesItem Y="15" />
+					<telerik:CategorySeriesItem Y="2" />
+					<telerik:CategorySeriesItem Y="1" />
 				</SeriesItems>
 				<TooltipsAppearance ClientTemplate="#= series.name# medals: #= dataItem.value#" />
 				<LabelsAppearance Visible="false"></LabelsAppearance>
